@@ -28,6 +28,14 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Keiran's GitHub Stats" src="https://github-readme-stats-keiran.vercel.app/api?username=Keiranos&show_icons=true&hide_border=true" />
+
+
+</details>
+
 [website]: https://www.teamapm.me/
 [twitter]: https://twitter.com/Keiran1712
 [linkedin]: https://www.linkedin.com/in/keiran-osullivan/
