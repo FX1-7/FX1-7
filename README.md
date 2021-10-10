@@ -14,8 +14,8 @@
 ### Connect with me:
 
 [<img align="left" alt="www.teamapm.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></img>][website]
-[<img align="left" alt="Keiran1712" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></img>][twitter]
-[<img align="left" alt="keiran-osullivan" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></img>][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></img>][twitter]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></img>][linkedin]
 
 <br />
 
