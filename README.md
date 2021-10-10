@@ -12,9 +12,9 @@
 - 
 ### Connect with me:
 
-[<img align="left" alt="www.teamapm.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></img>][website]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></img>][twitter]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></img>][linkedin]
+[<img align="left" alt="www.teamapm.me" src="https://img.shields.io/badge/TeamAPM-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></img>][website]
+[<img align="left" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></img>][twitter]
+[<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img>][linkedin]
 
 <br />
 
