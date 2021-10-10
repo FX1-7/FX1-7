@@ -9,8 +9,7 @@
 - 🌱 I’m currently C++ and Python.
 - 👯 I’m looking to develop my skills and knowledge in all things cyber.
 - 🥅 Current goals: Finish my degree.
-- ⚡ Fun fact: I love to game and code.
-
+- 
 ### Connect with me:
 
 [<img align="left" alt="www.teamapm.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></img>][website]
