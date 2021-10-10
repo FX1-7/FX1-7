@@ -13,7 +13,7 @@
 ### Connect with me:
 
 [<img align="left" alt="www.teamapm.me" src="https://img.shields.io/badge/TeamAPM-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></img>][website]
-[<img align="left" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></img>][twitter]
+[<img align="left" src="https://img.shields.io/badge/Keiran1712-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></img>][twitter]
 [<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img>][linkedin]
 
 <br />
