@@ -31,7 +31,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Keiran's GitHub Stats" src="https://github-readme-stats-keiran.vercel.app/api?username=Keiranos&show_icons=true&hide_border=true" />
+  <img align="left" alt="Keiran's GitHub Stats" src="https://github-readme-stats-keiran.vercel.app/api?username=Keiranos&show_icons=true&theme=dracula" />
 
 
 </details>
