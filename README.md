@@ -6,10 +6,10 @@
 ## I'm a Student!
 
 - 🔭 I have my own public discord bot with >90,000 users - [teamapm.me][website]
-- 🌱 I’m currently C++ and Python.
+- 🌱 I’m currently learning C++ and Python.
 - 👯 I’m looking to develop my skills and knowledge in all things cyber.
 - 🥅 Current goals: Finish my degree.
-- 
+
 ### Connect with me:
 
 [<img align="left" alt="www.teamapm.me" src="https://img.shields.io/badge/TeamAPM-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></img>][website]
