@@ -5,7 +5,7 @@
 
 ## I'm a Student!
 
-- 🔭 I have my own public discord bot with >90,000 users - [teamapm.me][website]
+- 🔭 I have my own public discord bot with >100,000 users - [teamapm.me][website]
 - 🌱 I’m currently learning C++ and Python.
 - 👯 I’m looking to develop my skills and knowledge in all things cyber.
 - 🥅 Current goals: Finish my degree.
