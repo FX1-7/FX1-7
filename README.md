@@ -1,9 +1,5 @@
 ### Hi there, I'm Keiran
-
-[![Website](https://img.shields.io/website?label=TeamAPM.me&style=for-the-badge&url=https%3A%2F%2Fwww.teamapm.me)](https://www.teamapm.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Keiran1712?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKeiran1712r&screen_name=Keiran1712)
-
-## I'm a Student!
+## I'm a Student studying Ethical Hacking
 
 - 🔭 I have my own public discord bot with >190,000 users - [teamapm.me][website]
 - 🌱 I’m currently learning C++, Javascript and Python.
