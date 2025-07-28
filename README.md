@@ -1,5 +1,5 @@
-### Hi there, I'm Keiran
-## I'm an ethical hacking graduate
+## Hi there, I'm Keiran
+### I'm an ethical hacking graduate
 
 - 🌱 I’m currently learning C++, Javascript and Python.
 - 👯 I’m looking to develop my skills and knowledge in all things cyber.
